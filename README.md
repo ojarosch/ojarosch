@@ -7,7 +7,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-jarosch-226285211/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ojarosch)
 
-<h3 align="left">View my Certfications:</h3>
+<h3 align="left">View my Skills:</h3>
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/4825d9f5-e7bb-4285-8d8c-5a1e9fc30842/public_url)
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/e7098200-ca06-4fd4-ac4c-9263970d2c6c/public_url)
