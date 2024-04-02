@@ -3,7 +3,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Teams Badge](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.microsoft.com/l/chat/0/0?users=oliver.jarosch@sva.de&topicName=VRE)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-jarosch-226285211/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ojarosch)
 
