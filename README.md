@@ -10,6 +10,7 @@
 <h3 align="left">View my Certfications:</h3>
 
 <!-- badges:start -->
+<a href="https://www.credly.com/badges/58812740-77ce-4689-b8d2-8f51cd6180c6/public_url"><img src="https://images.credly.com/size/165x165/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" title="KCNA: Kubernetes and Cloud Native Associate" width="110" height="110"></a>
 <a href="https://www.credly.com/badges/4168cb6d-880c-4536-aea1-deb2ce4e4c50/public_url"><img src="https://images.credly.com/size/165x165/images/38b12225-5b48-44e1-8750-20928cc595ea/image.png" alt="Certified Cloud Security Professional (CCSP)" title="Certified Cloud Security Professional (CCSP)" width="110" height="110"></a>
 <a href="https://www.credly.com/badges/ba6e9d40-b752-499f-89a5-8f8e662c5638/public_url"><img src="https://images.credly.com/size/165x165/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security – Specialty" title="AWS Certified Security – Specialty" width="110" height="110"></a>
 <a href="https://www.credly.com/badges/b4720f47-ebba-4653-b3c0-fbef58a4ab75/public_url"><img src="https://images.credly.com/size/165x165/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" title="HashiCorp Certified: Terraform Associate (003)" width="110" height="110"></a>
